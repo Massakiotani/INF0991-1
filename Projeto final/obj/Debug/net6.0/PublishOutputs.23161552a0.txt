@@ -1,0 +1,5 @@
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\bin\Debug\net6.0\publish\Projeto final.exe
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\bin\Debug\net6.0\publish\Projeto final.dll
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\bin\Debug\net6.0\publish\Projeto final.deps.json
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\bin\Debug\net6.0\publish\Projeto final.runtimeconfig.json
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\bin\Debug\net6.0\publish\Projeto final.pdb

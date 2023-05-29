@@ -1,0 +1,15 @@
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\obj\Debug\net6.0\Projeto final.csproj.AssemblyReference.cache
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\obj\Debug\net6.0\Projeto final.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\obj\Debug\net6.0\Projeto final.AssemblyInfoInputs.cache
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\obj\Debug\net6.0\Projeto final.AssemblyInfo.cs
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\obj\Debug\net6.0\Projeto final.csproj.CoreCompileInputs.cache
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\bin\Debug\net6.0\Projeto final.exe
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\bin\Debug\net6.0\Projeto final.deps.json
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\bin\Debug\net6.0\Projeto final.runtimeconfig.json
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\bin\Debug\net6.0\Projeto final.dll
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\bin\Debug\net6.0\Projeto final.pdb
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\obj\Debug\net6.0\Projeto final.dll
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\obj\Debug\net6.0\refint\Projeto final.dll
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\obj\Debug\net6.0\Projeto final.pdb
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\obj\Debug\net6.0\Projeto final.genruntimeconfig.cache
+c:\Users\Massaki\Documents\Projeto Final INF0990\Projeto final\obj\Debug\net6.0\ref\Projeto final.dll
